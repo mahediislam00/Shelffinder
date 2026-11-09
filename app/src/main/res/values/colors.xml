@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rx">#3FC495</color>
+    <color name="rx_deep">#0B6E4F</color>
+    <color name="hit">#FFD400</color>
+    <color name="ink">#E4EEEC</color>
+    <color name="muted">#8FA6A9</color>
+    <color name="panel">#EE122428</color>
+    <color name="line">#24393D</color>
+</resources>

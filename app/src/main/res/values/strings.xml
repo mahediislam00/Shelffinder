@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShelfFinder Live</string>
+    <string name="search_hint">Find on shelf, e.g. Pantonix</string>
+    <string name="clear">Clear search</string>
+    <string name="voice">Search by voice</string>
+    <string name="voice_prompt">Say a medicine name</string>
+    <string name="voice_unavailable">Voice search isn\'t available on this phone</string>
+    <string name="torch">Toggle flashlight</string>
+    <string name="freeze">Pause or resume the camera</string>
+    <string name="chip_show_text">Show all text</string>
+    <string name="chip_spotlight">Spotlight</string>
+    <string name="fuzzy_label">Fuzzy: %1$s</string>
+    <string name="status_idle">Point at a shelf and type a medicine name. Separate names with commas to find several.</string>
+    <string name="status_tap_word">%1$d words in view. Tap one to search for it.</string>
+    <string name="status_need_camera">Camera access is needed to scan shelves</string>
+    <string name="searching">searching…</string>
+    <string name="paused_prefix">Paused · </string>
+    <string name="permission_title">ShelfFinder needs your camera</string>
+    <string name="permission_body">Text is read on your phone in real time. Nothing is uploaded.</string>
+    <string name="permission_button">Allow camera</string>
+</resources>

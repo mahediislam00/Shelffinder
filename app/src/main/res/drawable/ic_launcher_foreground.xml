@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- white pharmacy cross -->
+    <path android:fillColor="#FFFFFF" android:pathData="M48,36h12v12h12v12h-12v12h-12v-12h-12v-12h12z" />
+    <!-- yellow "found it" frame corners -->
+    <path android:strokeColor="#FFD400" android:strokeWidth="4.5" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M28,38v-10h10 M70,28h10v10 M80,70v10h-10 M38,80h-10v-10" />
+</vector>
